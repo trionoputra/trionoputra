@@ -6,16 +6,7 @@ Passionate Software Developer with over 10 years of professional experience buil
 - 🌱 I’m currently learning android, java, ReactJS, React Native
 
 #### Other skills and Abilities
-- PHP
-- JQuery
-- Bootstrap
-- CodeIgniter
-- YII2
-- D3js
-- ExpressJS
-- Laravel
-- LibGDX
-- VB/C# .NET
+##### PHP, JQuery, Bootstrap, CodeIgniter, YII2, D3js, ExpressJS, Laravel, LibGDX, .NET
 
 
 
