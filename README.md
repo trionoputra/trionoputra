@@ -1,16 +1,21 @@
 ### Hi there 👋 im Triono Putra
 
-<!--
-**trionoputra/trionoputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Software Developer with over 10 years of professional experience building web, Mobile, and Desktop Applications. Proficient in full-stack development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Deptech Digital Indonesia as Frontend Developer
+- 🌱 I’m currently learning android, java, ReactJS, React Native
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Other skills and Abilities
+- PHP
+- JQuery
+- Bootstrap
+- CodeIgniter
+- YII2
+- D3js
+- ExpressJS
+- Laravel
+- LibGDX
+- VB/C# .NET
+
+
+
